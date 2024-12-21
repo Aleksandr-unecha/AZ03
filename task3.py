@@ -17,7 +17,7 @@ try:
     time.sleep(5)
 
     # Найдите все элементы, содержащие цены
-    prices = driver.find_elements(By.CSS_SELECTOR, '.catalog-products__item-price')
+    prices = driver.find_elements(By.CSS_SELECTOR, 'span.ui-LD-ZU.KIkOH')
 
     # Откройте файл для записи
     with open('prices.csv', mode='w', newline='', encoding='utf-8') as file:
