@@ -49,16 +49,11 @@ pip install pandas matplotlib numpy selenium
 
 2. Запустите нужный скрипт:
 
-python grafik_price_div.py
-
-python prices_div.py
-
-python task1.py
-
-python task2.py
-
-python task3.py
-
+- python grafik_price_div.py
+- python prices_div.py
+- python task1.py
+- python task2.py
+- python task3.py
 
 ## Лицензия
 
